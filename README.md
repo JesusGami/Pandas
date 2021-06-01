@@ -1,3 +1,3 @@
 # Pandas
 
-## Some Pandas projects 🐼
+## Some Pandas topics and projects🐼
